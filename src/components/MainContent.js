@@ -22,7 +22,7 @@ const MainContent = () => {
   return (
     <div>
       <h2>Noticias de la NBA</h2>
-      <Row xs={1} md={2} lg={3} className="g-4"> {/* Usamos Row para el layout con padding entre las cartas */}
+      <Row xs={1} md={2} lg={1} className="g-4"> {/* Usamos Row para el layout con padding entre las cartas */}
         {articles.length > 0 ? (
           articles.map((article, index) => (
             <Col key={index}>
