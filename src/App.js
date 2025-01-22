@@ -2,7 +2,6 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
 import Sidebar from './components/Sidebar'; // El Sidebar original
-
 import MainContent from './components/MainContent';
 import Footer from './components/Footer';  // Importamos el Footer
 import { Container, Row, Col } from 'react-bootstrap';
@@ -24,7 +23,6 @@ function App() {
               <Route path="/scores" element={<MainContent />} />
             </Routes>
           </Col>
-          
         </Row>
         <Footer /> 
       </Container>

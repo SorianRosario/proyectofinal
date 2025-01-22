@@ -16,17 +16,17 @@ const Footer = () => {
 
         <div className="footer-section">
           <h3>Contacto</h3>
-          <p>Email: contacto@empresa.com</p>
-          <p>Teléfono: +1 234 567 890</p>
+          <p>Email: mrr2k130@gmail.com</p>
+          <p>Teléfono: +1 809 407 4051</p>
         </div>
 
         <div className="footer-section">
           <h3>Redes Sociales</h3>
           <ul>
-            <li><a href="https://facebook.com" target="_blank" rel="noopener noreferrer">Facebook</a></li>
-            <li><a href="https://twitter.com" target="_blank" rel="noopener noreferrer">Twitter</a></li>
-            <li><a href="https://instagram.com" target="_blank" rel="noopener noreferrer">Instagram</a></li>
-            <li><a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+            <li><a href="https://www.facebook.com/profile.php?id=100088278374441" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+            <li><a href="https://x.com/MoiRosarioRubio" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+            <li><a href="https://www.instagram.com/moises_r.r/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+            <li><a href="https://www.linkedin.com/in/mois%C3%A9s-rosario-449567300/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
           </ul>
         </div>
       </div>
